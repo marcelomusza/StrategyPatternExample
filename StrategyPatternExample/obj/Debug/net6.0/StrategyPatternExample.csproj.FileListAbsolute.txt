@@ -1,0 +1,15 @@
+C:\Users\Marce\source\repos\Training\StrategyPatternExample\StrategyPatternExample\bin\Debug\net6.0\StrategyPatternExample.exe
+C:\Users\Marce\source\repos\Training\StrategyPatternExample\StrategyPatternExample\bin\Debug\net6.0\StrategyPatternExample.deps.json
+C:\Users\Marce\source\repos\Training\StrategyPatternExample\StrategyPatternExample\bin\Debug\net6.0\StrategyPatternExample.runtimeconfig.json
+C:\Users\Marce\source\repos\Training\StrategyPatternExample\StrategyPatternExample\bin\Debug\net6.0\StrategyPatternExample.dll
+C:\Users\Marce\source\repos\Training\StrategyPatternExample\StrategyPatternExample\bin\Debug\net6.0\ref\StrategyPatternExample.dll
+C:\Users\Marce\source\repos\Training\StrategyPatternExample\StrategyPatternExample\bin\Debug\net6.0\StrategyPatternExample.pdb
+C:\Users\Marce\source\repos\Training\StrategyPatternExample\StrategyPatternExample\obj\Debug\net6.0\StrategyPatternExample.csproj.AssemblyReference.cache
+C:\Users\Marce\source\repos\Training\StrategyPatternExample\StrategyPatternExample\obj\Debug\net6.0\StrategyPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marce\source\repos\Training\StrategyPatternExample\StrategyPatternExample\obj\Debug\net6.0\StrategyPatternExample.AssemblyInfoInputs.cache
+C:\Users\Marce\source\repos\Training\StrategyPatternExample\StrategyPatternExample\obj\Debug\net6.0\StrategyPatternExample.AssemblyInfo.cs
+C:\Users\Marce\source\repos\Training\StrategyPatternExample\StrategyPatternExample\obj\Debug\net6.0\StrategyPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\Marce\source\repos\Training\StrategyPatternExample\StrategyPatternExample\obj\Debug\net6.0\StrategyPatternExample.dll
+C:\Users\Marce\source\repos\Training\StrategyPatternExample\StrategyPatternExample\obj\Debug\net6.0\ref\StrategyPatternExample.dll
+C:\Users\Marce\source\repos\Training\StrategyPatternExample\StrategyPatternExample\obj\Debug\net6.0\StrategyPatternExample.pdb
+C:\Users\Marce\source\repos\Training\StrategyPatternExample\StrategyPatternExample\obj\Debug\net6.0\StrategyPatternExample.genruntimeconfig.cache

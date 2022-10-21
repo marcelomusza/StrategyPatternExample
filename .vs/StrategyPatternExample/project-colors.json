@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b4bcbbbe-daea-41e9-bcd7-e3ac7639f20c": {
+      "ProjectGuid": "b4bcbbbe-daea-41e9-bcd7-e3ac7639f20c",
+      "DisplayName": "StrategyPatternExample",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
